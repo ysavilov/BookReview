@@ -156,7 +156,7 @@ public_users.get('/author/:author',function (req, res) {
 });
 
 // Task 13
-// Add the code for getting the book details based on Title (done in Task 4) using Promise callbacks or async-await with Axios.
+// Add the code for getting the book details based on Title (done in Task 4) using Promise callbacks or async-await with Axios
 
 
 function getFromTitle(title){
